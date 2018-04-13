@@ -1,4 +1,4 @@
-// test_roman.cpp : NEED 10 MIN MORE TO COMPLETE THE SORT
+// test_roman.cpp : test roman numerals conversion
 //
 
 #include "stdafx.h"
